@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "ok 8"
-exit 0
+echo "ok 9"
+exit 1
