@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Ok 1"
-exit 0
+echo "Fail 2"
+exit 1
