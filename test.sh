@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "ok 11"
+echo "ok 12"
 exit 1
